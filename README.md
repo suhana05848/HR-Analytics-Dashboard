@@ -44,20 +44,6 @@ By leveraging **DAX calculations, interactive visualizations, and Power Query tr
 
 ---
 
-## 📌 How to Use  
-1️⃣ **Download the Power BI file** from this repository.  
-2️⃣ **Connect your HR dataset** (or use the sample data).  
-3️⃣ **Interact with filters & visualizations** to gain insights into attrition trends.  
-
----
-
 ## 🏆 Conclusion  
 This **HR Analytics Dashboard** is a powerful tool for **workforce planning and decision-making**. By integrating **statistical analysis, interactive visualizations, and Power BI’s advanced capabilities**, the dashboard helps organizations **identify trends, improve employee retention, and make data-driven HR decisions**.  
 
-🔗 **Check out the project and explore the interactive dashboard!** 🚀  
-
----
-
-### 📬 Let's Connect!  
-💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-📧 **Email:** your-email@example.com  
